@@ -1,5 +1,6 @@
 # fake-news-detection
 Binary classification task for Kontur summer 2022 internship
+![leaderboard](https://github.com/korab1ev/fake-news-detection/blob/main/leaderboard.png)
 Файлы: 
 - ``config.yaml``
 - ``data.py``
